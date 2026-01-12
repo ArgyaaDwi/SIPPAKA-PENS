@@ -1,0 +1,694 @@
+"ID_KOTA";"ID_PROPINSI";"NAMA_KOTA";"KET_KOTA";"KABUPATEN"
+1;1;"Surabaya";"35785";0
+3;3;"Jakarta";"";1
+4;4;"Denpasar";"";0
+6;1;"Malang";"35731";0
+7;6;"Banda Aceh";"";0
+8;7;"Medan";"";0
+9;2;"Semarang";"";1
+11;6;"Aceh Selatan";"11013
+";1
+12;6;"Aceh Tenggara";"11021
+";1
+13;6;"Aceh Timur";"11036
+";1
+14;6;"Aceh Tengah";"11044
+";1
+15;6;"Aceh Barat";"11052
+";1
+16;6;"Aceh Besar";"11067
+";1
+17;6;"Pidie";"11075
+";1
+18;6;"Aceh Utara";"11083
+";1
+19;6;"Bireun";"11091
+";1
+20;6;"Aceh Singkil";"11102
+";1
+21;6;"Simeulue";"11117
+";1
+22;6;"Nagan Raya";"11156
+";1
+23;6;"Banda Aceh";"11713
+";0
+24;6;"Sabang";"11721
+";1
+25;6;"Lhokseumawe";"11736
+";0
+26;6;"Langsa";"11744
+";1
+27;6;"Langsa";"11744
+";0
+28;7;"NIAS";"12016
+";1
+29;7;"Tapanuli Selatan";"12024
+";1
+30;7;"Tapanuli Tengah";"12032
+";1
+31;7;"Tapanuli Utara";"12047
+";1
+32;7;"Labuhan Batu";"12055
+";1
+33;7;"Asahan";"12063
+";1
+34;7;"Simalungun";"12071
+";1
+35;7;"Dairi";"12086
+";1
+36;7;"Karo";"12094
+";1
+37;7;"Deli Serdang";"12105
+";1
+38;7;"Langkat";"12113
+";1
+39;7;"Toba Samosir";"12121
+";1
+40;7;"Mandailing Natal";"12136
+";1
+41;7;"Sibolga";"12716
+";1
+42;7;"Tanjung Balai";"12724
+";1
+43;7;"P.Siantar";"12732
+";0
+44;7;"Tebingtinggi";"12747
+";1
+46;7;"Binjai";"12763
+";0
+47;7;"P.Sidempuan";"12771
+";1
+48;11;"Pesisir Selatan";"13012
+";1
+49;11;"Solok";"13027
+";0
+50;11;"Sawah Lunto";"13035
+";0
+51;11;"Tanah Datar";"13043
+";1
+52;11;"Padang Pariaman";"13051
+";1
+53;11;"Agam";"13066
+";1
+54;11;"Limapuluhkota";"13074
+";1
+55;11;"Pasaman";"13082
+";1
+56;11;"Kep.Mentawai";"13097
+";1
+57;11;"Padang";"13712
+";1
+58;11;"Solok";"13727
+";1
+59;11;"Sawah Lunto";"13735
+";1
+60;11;"Padang Panjang";"13743
+";0
+61;11;"Bukit Tinggi";"13751
+";0
+62;11;"Payakumbuh";"13766
+";0
+63;11;"Pariaman";"13774
+";0
+64;8;"Indragiri Hulu";"14015
+";1
+65;8;"Indragiri Hilir";"14023
+";1
+66;8;"Kepulauan Riau";"14031
+";1
+67;8;"Kampar";"14046
+";1
+68;8;"Bengkalis";"14054
+";1
+69;9;"Karimun";"14062
+";1
+70;8;"Kuantan Singingi";"14077
+";1
+71;8;"Natuna";"14085
+";1
+72;8;"Siak";"14093
+";1
+73;8;"Rokan Hilir";"14104
+";1
+74;8;"Rokan Hulu";"14112
+";1
+75;8;"Pelalawan";"14127
+";1
+76;8;"Pekanbaru";"14715
+";1
+77;9;"Batam";"14723
+";0
+78;8;"Dumai";"14731
+";0
+79;9;"Tanjung Pinang";"14746
+";0
+80;10;"Kerinci";"15011
+";1
+81;10;"Batanghari";"15034
+";1
+82;10;"Sarolangun";"15065
+";1
+83;10;"Merangin";"15073
+";1
+84;10;"Tanj.Jabung Timur";"15081
+";1
+85;10;"Tanj.Jabung Barat";"15096
+";1
+86;10;"Muaro Jambi";"15107
+";1
+87;10;"Bungo";"15115
+";1
+88;10;"Tebo";"15123
+";1
+89;10;"Jambi";"15711
+";0
+90;12;"Ogan Komering Ulu";"16014
+";1
+91;12;"Ogan Komering Ilir";"16022
+";1
+92;12;"Muara Enim";"16037
+";1
+93;12;"Lahat";"16045
+";1
+94;12;"Musi Rawas";"16053
+";1
+95;12;"Musi Banyuasin";"16061
+";1
+96;12;"Palembang";"16714
+";0
+97;12;"Prabumulih";"16737
+";1
+98;12;"Pagaralam";"16745
+";0
+99;12;"Lubuklinggau";"16753
+";0
+100;14;"Bengkulu Selatan";"17017
+";1
+101;14;"Rejanglebong";"17025
+";1
+102;14;"Bengkulu Utara";"17033
+";1
+103;14;"Bengkulu";"17717
+";0
+104;13;"Lampung Selatan";"18013
+";1
+105;13;"Lampung Tengah";"18021
+";1
+106;13;"Lampung Utara";"18036
+";1
+107;13;"Lampung Barat";"18044
+";1
+108;13;"Tanggamus";"18052
+";1
+109;13;"Tulang Bawang";"18067
+";1
+110;13;"Lampung Timur";"18075
+";1
+111;13;"Way Kanan";"18083
+";1
+112;13;"Bandar Lampung";"18713
+";0
+113;13;"Metro";"18721
+";0
+114;15;"Bangka";"19016
+";1
+115;15;"Belitung";"19024
+";1
+116;15;"Pangkal Pinang";"19716
+";1
+117;16;"Pandeglang";"30014
+";1
+118;16;"Lebak";"30022
+";1
+119;16;"Tangerang";"30037
+";1
+120;16;"Serang";"30045
+";0
+121;16;"Tangerang";"30714
+";0
+122;16;"Cilegon";"30722
+";0
+123;3;"Jakarta Selatan";"31717
+";0
+124;3;"Jakarta Timur";"31725
+";0
+125;3;"Jakarta Pusat";"31733
+";0
+126;3;"Jakarta Barat";"31741
+";0
+127;3;"Jakarta Utara";"31756
+";0
+128;17;"Bogor";"32036
+";1
+129;17;"Sukabumi";"32044
+";1
+130;17;"Cianjur";"32052
+";1
+131;17;"Bandung";"32067
+";1
+132;17;"Garut";"32075
+";1
+133;17;"Tasikmalaya";"32083
+";0
+134;17;"Ciamis";"32091
+";1
+135;17;"Kuningan";"32102
+";1
+137;17;"Cirebon";"32117";1
+138;17;"Majalengka";"32125
+";1
+139;17;"Sumedang";"32133
+";1
+140;17;"Indramayu";"32141
+";1
+141;17;"Subang";"32156
+";1
+142;17;"Purwakarta";"32164
+";1
+143;17;"Karawang";"32172
+";1
+144;17;"Bekasi";"32187
+";0
+145;17;"Bogor";"32713
+";0
+146;17;"Sukabumi";"32721
+";0
+147;17;"Bandung";"32736
+";0
+148;17;"Cirebon";"32744
+";0
+149;17;"Bekasi";"32767
+";1
+150;17;"Depok";"32775
+";0
+151;17;"Cimahi";"32783
+";0
+152;17;"Tasikmalaya";"32791
+";1
+153;2;"Cilacap";"33016
+";1
+154;2;"Banyumas";"33024
+";1
+155;2;"Purbalingga";"33032
+";1
+156;2;"Banjarnegara";"33047
+";1
+157;2;"Kebumen";"33055
+";1
+158;2;"Purworejo";"33063
+";1
+159;2;"Wonosobo";"33071
+";1
+160;2;"Magelang";"33086
+";1
+161;2;"Boyolali";"33094
+";1
+162;2;"Klaten";"33105
+";1
+163;2;"Sukoharjo";"33113
+";1
+164;2;"Wonogiri";"33121
+";1
+165;2;"Karanganyar";"33136
+";1
+166;2;"Sragen";"33144
+";1
+167;2;"Grobogan";"33152
+";1
+168;2;"Blora";"33167
+";1
+169;2;"Rembang";"33175
+";1
+170;2;"Pati";"33183
+";1
+171;2;"Kudus";"33191
+";1
+172;2;"Jepara";"33202
+";1
+173;2;"Demak";"33217
+";1
+175;2;"Temanggung";"33233
+";1
+176;2;"Kendal";"33241
+";1
+177;2;"Batang";"33256
+";1
+178;2;"Pekalongan";"33264
+";1
+179;2;"Pemalang";"33272
+";1
+180;2;"Tegal";"33287
+";1
+181;2;"Brebes";"33295
+";1
+182;2;"Magelang";"33716
+";0
+183;2;"Surakarta";"33724
+";0
+184;2;"Salatiga";"33732
+";1
+185;2;"Semarang";"33747
+";0
+187;2;"Tegal";"33763
+";0
+188;18;"Kulonprogo";"34012
+";1
+189;18;"Bantul";"34027
+";1
+190;18;"Gunungkidul";"34035
+";1
+191;18;"Sleman";"34043
+";1
+192;18;"Yogyakarta";"34712
+";0
+193;38;"Sorong";"";0
+194;38;"Fak-fak";"";1
+195;32;"Manokwari";"";1
+196;38;"Sorong";"";1
+197;32;"Paniai";"";1
+198;32;"Nabire";"";1
+199;32;"Mimika";"";1
+200;32;"Yapen Waropen";"";1
+201;32;"Biak Numfor";"";1
+202;32;"Jayapura";"";1
+203;33;"Merauke";"";1
+204;33;"Puncak Jaya";"";1
+205;33;"Jayawijaya";"";1
+206;32;"Jayapura";"";0
+207;31;"Ternate";"";0
+208;31;"Halmahera Tengah";"";1
+209;31;"Maluku Utara";"";1
+210;30;"Ambon";"";0
+211;30;"Maluku Tenggara Brt";"";1
+212;30;"Buru";"";1
+213;30;"Maluku Tengah";"";1
+214;30;"Maluku Tenggara";"";1
+215;29;"Bau-bau";"";0
+216;29;"Kendari";"";1
+217;29;"Kolaka";"";1
+218;29;"Kendari";"";0
+219;29;"Muna";"";1
+220;29;"Buton";"";1
+221;27;"Palopo";"";1
+222;27;"Pare-pare";"";1
+223;27;"Makassar";"";0
+224;27;"Luwu Utara";"";1
+225;27;"Mamuju";"";1
+226;27;"Majene";"";1
+227;27;"Polewali Mamasa";"";1
+228;27;"Tana Toraja";"";1
+229;27;"Luwu";"";1
+230;27;"Enrekang";"";1
+231;27;"Pinrang";"";1
+232;27;"Sidenreng Rappang";"";1
+233;27;"Wajo";"";1
+234;27;"Soppeng";"";1
+235;27;"Barru";"";1
+236;27;"Pangkajene Kep.";"";1
+237;27;"Maros";"";1
+238;27;"Bone";"";1
+239;27;"Sinjai";"";1
+240;27;"Gowa";"";1
+241;27;"Takalar";"";1
+242;27;"Jeneponto";"";1
+243;27;"Bantaeng";"";1
+244;27;"Bulukumba";"";1
+245;27;"Selayar";"";1
+246;28;"Palu";"";1
+247;28;"Parigi Moutong";"";1
+248;28;"Morowali";"";1
+249;28;"Toli-toli";"";1
+250;28;"Buol";"";1
+251;28;"Banggai";"";1
+252;28;"Banggai Kepulauan";"";1
+253;28;"Donggala";"";1
+254;28;"Poso";"";1
+255;34;"Bitung";"";0
+256;34;"Manado";"";0
+257;34;"Kepulauan Sangihe";"";1
+258;34;"Minahasa";"";1
+259;34;"Bolaang Mongondow";"";1
+260;25;"Gorontalo";"";1
+261;25;"Boalemo";"";1
+262;24;"Bontang";"";0
+263;24;"Tarakan";"";1
+264;24;"Samarinda";"";0
+265;24;"Balikpapan";"";0
+266;24;"Kutai Barat";"";1
+267;24;"Malinau";"";1
+268;24;"Kutai Timur";"";1
+269;24;"Nunukan";"";1
+270;24;"Bulungan";"";1
+271;24;"Berau";"";1
+272;24;"Kutai Kartanegara";"";1
+273;24;"Pasir";"";0
+274;23;"Banjar Baru";"";0
+275;23;"Banjarmasin";"";0
+276;23;"Tabalong";"";1
+277;23;"Hulu Sungai Utara";"";1
+278;23;"Hulu Sungai Tengah";"";1
+279;23;"Hulu Sungai Selatan";"";1
+280;23;"Tapin";"";1
+281;23;"Barito Kuala";"";1
+282;23;"Banjar";"";1
+283;23;"Kota Baru";"";1
+284;23;"Tanah Laut";"";1
+285;22;"Palangkaraya";"";0
+286;22;"Gunung Mas";"";1
+287;22;"Barito Utara";"";1
+288;22;"Barito Selatan";"";1
+289;22;"Kapuas";"";1
+290;22;"Kotawaringin Timur";"";1
+291;22;"Kotawaringin Barat";"";1
+292;21;"Singkawang";"";0
+293;21;"Pontianak";"";0
+294;21;"Landak";"";1
+295;21;"Bengkayang";"";1
+296;21;"Kapuas Hulu";"";1
+297;21;"Sintang";"";1
+298;21;"Ketapang";"";1
+299;21;"Sanggau";"";1
+301;20;"Sambas";"";1
+302;20;"Kupang";"";0
+303;20;"Lembata";"";1
+304;20;"Manggarai";"";1
+305;20;"Ngada";"";1
+306;20;"Ende";"";1
+307;20;"Sikka";"";1
+308;1;"Pacitan";"35015
+";1
+309;1;"Ponorogo";"35054";1
+310;1;"Trenggalek";"35031
+";1
+311;1;"Tulungagung";"35046
+";1
+312;20;"Flores Timur";"";1
+313;20;"Alor";"";1
+314;20;"Belu";"";1
+315;20;"Timor Tengah Utara";"";1
+316;20;"Timor Tengah Selatan";"";1
+317;20;"Kupang";"";1
+318;20;"Sumba Timur";"";1
+319;20;"Sumba Barat";"";1
+320;19;"Mataram";"";0
+321;19;"Bima";"";0
+322;19;"Dompu";"";1
+323;19;"Sumbawa";"";1
+324;19;"Lombok Timur";"";1
+325;19;"Lombok Tengah";"";1
+326;1;"Kediri";"35062
+";0
+327;19;"Lombok Barat";"";1
+328;1;"Malang";"35077
+";1
+329;4;"Denpasar";"";1
+330;1;"Lumajang";"35085
+";1
+331;4;"Buleleng";"";1
+332;1;"Jember";"35093
+";1
+333;4;"Karangasem";"";1
+334;4;"Bangli";"";1
+335;1;"Banyuwangi";"35104
+";1
+336;4;"Klungkung";"";1
+337;4;"Gianyar";"";1
+338;1;"Bondowoso";"35112
+";1
+339;4;"Badung";"";1
+340;1;"Situbondo";"35127
+";1
+341;4;"Tabanan";"";1
+342;4;"Jembrana";"";1
+343;1;"Probolinggo";"35135
+";0
+344;1;"Pasuruan";"35143
+";0
+345;1;"Sidoarjo";"";1
+346;1;"Mojokerto";"";1
+347;1;"Jombang";"";1
+348;1;"Nganjuk";"";1
+349;1;"Madiun";"";0
+350;1;"Magetan";"";1
+351;1;"Ngawi";"";1
+352;1;"Bojonegoro";"";1
+353;1;"Tuban";"";1
+354;1;"Lamongan";"";1
+355;1;"Gresik";"";1
+356;1;"Bangkalan";"";1
+357;1;"Sampang";"";1
+358;1;"Pamekasan";"";1
+359;1;"Sumenep";"";1
+360;1;"Kediri";"";1
+361;1;"Blitar";"";0
+363;1;"Probolinggo";"";1
+364;1;"Pasuruan";"";1
+365;1;"Mojokerto";"";0
+366;1;"Madiun";"";1
+368;1;"Batu";"";0
+369;11;"Padang";"";0
+370;2;"Salatiga";"";0
+371;2;"Pekalongan";"";0
+373;7;"Humbang Hasundutan";"";0
+374;1;"Blitar";"";1
+375;8;"Kep.Meranti";"";1
+376;27;"Luwu Timur";"";1
+377;7;"Serdang Bedagai";"";1
+378;24;"Penajam Paser Utara";"";1
+379;35;"Malaysia-Kuala Lumpur";"";0
+380;22;"Sukamara";"";1
+381;27;"Toraja Utara";"";1
+382;19;"Lombok Utara";"";1
+383;22;"Pulau Pisang";"Pulau Pisang";1
+384;19;"Sumbawa Barat";"Sumbawa Barat";1
+385;31;"Tidore";"Tidore";0
+386;23;"Tabalong";"";0
+387;22;"Barito Timur";"";1
+388;16;"Serang";"";1
+389;7;"Nias Barat";"";1
+390;7;"Nias Selatan";"";1
+391;7;"Nias Utara";"";1
+392;30;"Tual";"";0
+393;35;"Belanda-Wassenaar";"";0
+394;12;"Ogan Ilir";"";1
+395;21;"Sekadau";"";1
+396;26;"Polewali Mandar";"";1
+397;7;"Batubara";"";1
+398;23;"Balangan";"";1
+399;11;"Pasaman Barat";"";1
+400;35;"Arab Saudi-Jeddah";"";0
+401;37;"Nunukan";"";1
+402;37;"Bulungan";"";1
+403;37;"Malinau";"";1
+404;37;"Tana Tidung";"";1
+405;37;"Tarakan";"";0
+406;38;"Teluk Bintuni";"";1
+407;32;"Puncak Jaya";"";1
+408;32;"Dogiyai";"";1
+409;32;"Timika";"";0
+410;29;"Konawe";"";1
+411;34;"Minahasa Selatan";"";1
+413;35;"Qatar-Al khor";"";0
+414;13;"Pesawaran";"";1
+415;7;"Padang Lawas";"";1
+416;25;"Bone Bolango";"";1
+417;7;"Labuhanbatu Utara";"";1
+418;7;"Labuhanbatu Selatan";"";1
+419;22;"Seruyan";"";1
+420;31;"Halmahera Selatan";"";1
+421;6;"Aceh Tamiang";"";1
+422;12;"Ogan Komering Ulu Timur";"";1
+423;35;"Timor Leste-Dilli";"";0
+424;10;"Sungai Penuh";"";0
+425;32;"Merauke";"";1
+426;17;"Banjar";"Banjar";0
+427;16;"Tangerang Selatan";"Tangerang Selatan";0
+428;15;"Belitung Timur";"";1
+429;21;"Mempawah";"";1
+430;11;"Solok Selatan";"";1
+431;11;"Sijunjung";"Sijunjung";0
+432;12;"Musi Rawas Utara";"";1
+433;7;"Humbang Hasundutan";"";1
+434;8;"Duri";"Duri";0
+435;23;"Tanah Bumbu";"";1
+436;6;"Subulussalam";"";0
+437;12;"Banyuasin";"";1
+438;20;"Nagekeo";"Nagekeo";1
+439;11;"Lubuk Basing";"Lubuk Basing";1
+441;11;"Dharmasraya";"";1
+442;29;"Buton Utara";"";1
+443;14;"Seluma";"";1
+444;35;"Jepang-Tokushima";"";0
+445;35;"Jepang-Tokyo";"";0
+446;35;"Korea Selatan-Seoul";"";0
+447;35;"Korea Selatan-Busan";"";0
+448;35;"Filipina-Pangasinan";"";0
+449;35;"Filipina-Iloilo City";"";0
+450;35;"Korea Selatan-Gyeongsang Selatan";"";0
+451;24;"Sangatta";"";0
+452;21;"Kubu Raya";"";1
+453;6;"Pidie Jaya";"";1
+454;22;"Murung Raya";"";1
+455;26;"Majene";"";1
+456;26;"Mamuju";"";1
+457;28;"Sigi";"";1
+458;7;"Samosir";"";1
+459;30;"Seram";"";1
+460;12;"Ogan Komering Ulu Selatan";"";1
+461;12;"Empat Lawang";"";1
+462;7;"Gunungsitoli";"";0
+463;7;"Kabanjahe";"";1
+464;13;"Pringsewu";"";1
+465;30;"Namrole";"";0
+466;7;"Pakpak Bharat";"";1
+467;7;"Pangaribuan";"";0
+468;8;"Bangkinang";"";0
+469;17;"Bandung Barat";"";1
+470;35;"Rawalpindi-Pakistan";"";0
+471;21;"Sambas";"Kabupaten";1
+472;27;"Sidrap";"";1
+473;23;"Barabai";"";0
+474;20;"Manggarai Timur";"";1
+475;20;"Manggarai Barat";"";1
+476;22;"Buntok";"";1
+477;20;"Malaka";"";1
+478;34;"Bolaang Mongondow Selatan";"";1
+479;34;"Bolaang Mongondow Timur";"";1
+480;34;"Bolaang Mongondow Utara";"";1
+481;34;"Kepulauan Siau Tagulandang Biaro";"";1
+482;34;"Kepulauan Talaud";"";1
+483;34;"Minahasa Tenggara";"";1
+484;34;"Minahasa Utara";"";1
+485;34;"Bitung";"";0
+486;34;"Kotamobagu";"";0
+487;34;"Tomohon";"";0
+488;12;"Penukal Abab Lematang Ilir";"";1
+489;29;"Kolaka Timur";"";1
+490;22;"Kotawaringin Lama";"";1
+491;24;"Paser";"";1
+492;35;"Abu Dhabi";"";
+493;14;"Kepahiang";"";1
+494;36;"Kepulauan Aru";"";1
+495;31;"Halmahera Utara";"";1
+496;39;"Merauke";"";1
+497;27;"Kepulauan Selatan";"";1
+498;39;"Boven Digoel";"";1
+499;26;"Mamasa";"";1
+500;39;"Asmat";"";1
+501;39;"Mappi";"";1
+502;26;"Pasangkayu";"";1
+503;29;"Kolaka Utara";"";1
+504;35;"Dhaka-Bangladesh";"";0
+505;35;"Islamabad - Pakistan";"";
+506;15;"Bangka Tengah";"";1
+507;14;"Bengkulu Tengah";"";1
+508;35;"Duisburg-Jerman";"";
+509;35;"Taipei-Taiwan";"";0
+510;35;"Bujumbura-Burundi";"";0
+511;35;"Khartoum East-Sudan";"";0
+512;35;"Taiz-Republik Yaman";"";0
+513;35;"Punjab-Pakistan";"";0
+514;35;"Kinaawa, Kampala-Uganda";"";0
+515;35;"Gitega-Burundi";"";0
+516;35;"Narang-Pakistan";"";0
+99999;35;"Tidak Dikenal";"";
